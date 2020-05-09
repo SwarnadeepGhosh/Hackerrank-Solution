@@ -1,3 +1,5 @@
+//swarnadeep
+
 var res = document.getElementById('res')
 document.getElementById('btn0').onclick = () => {
   res.innerHTML += '0';
